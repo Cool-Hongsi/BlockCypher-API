@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/blockcypher/precache-manifest.8b27726cd0f8ead3af0d3497c09c8608.js"
+  "/BlockCypher-API/precache-manifest.b74de6537304d0b2e195ecd3967c0317.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/blockcypher/index.html", {
+workbox.routing.registerNavigationRoute("/BlockCypher-API/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

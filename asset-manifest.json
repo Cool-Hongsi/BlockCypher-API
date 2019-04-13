@@ -1,15 +1,15 @@
 {
-  "main.css": "/blockcypher/static/css/main.1f87045c.chunk.css",
-  "main.js": "/blockcypher/static/js/main.32348897.chunk.js",
-  "main.js.map": "/blockcypher/static/js/main.32348897.chunk.js.map",
-  "runtime~main.js": "/blockcypher/static/js/runtime~main.17d5e434.js",
-  "runtime~main.js.map": "/blockcypher/static/js/runtime~main.17d5e434.js.map",
-  "static/css/2.eb7ae919.chunk.css": "/blockcypher/static/css/2.eb7ae919.chunk.css",
-  "static/js/2.424db1a3.chunk.js": "/blockcypher/static/js/2.424db1a3.chunk.js",
-  "static/js/2.424db1a3.chunk.js.map": "/blockcypher/static/js/2.424db1a3.chunk.js.map",
-  "index.html": "/blockcypher/index.html",
-  "precache-manifest.8b27726cd0f8ead3af0d3497c09c8608.js": "/blockcypher/precache-manifest.8b27726cd0f8ead3af0d3497c09c8608.js",
-  "service-worker.js": "/blockcypher/service-worker.js",
-  "static/css/2.eb7ae919.chunk.css.map": "/blockcypher/static/css/2.eb7ae919.chunk.css.map",
-  "static/css/main.1f87045c.chunk.css.map": "/blockcypher/static/css/main.1f87045c.chunk.css.map"
+  "main.css": "/BlockCypher-API/static/css/main.1f87045c.chunk.css",
+  "main.js": "/BlockCypher-API/static/js/main.2f2ddecd.chunk.js",
+  "main.js.map": "/BlockCypher-API/static/js/main.2f2ddecd.chunk.js.map",
+  "runtime~main.js": "/BlockCypher-API/static/js/runtime~main.25be59eb.js",
+  "runtime~main.js.map": "/BlockCypher-API/static/js/runtime~main.25be59eb.js.map",
+  "static/css/2.eb7ae919.chunk.css": "/BlockCypher-API/static/css/2.eb7ae919.chunk.css",
+  "static/js/2.424db1a3.chunk.js": "/BlockCypher-API/static/js/2.424db1a3.chunk.js",
+  "static/js/2.424db1a3.chunk.js.map": "/BlockCypher-API/static/js/2.424db1a3.chunk.js.map",
+  "index.html": "/BlockCypher-API/index.html",
+  "precache-manifest.b74de6537304d0b2e195ecd3967c0317.js": "/BlockCypher-API/precache-manifest.b74de6537304d0b2e195ecd3967c0317.js",
+  "service-worker.js": "/BlockCypher-API/service-worker.js",
+  "static/css/2.eb7ae919.chunk.css.map": "/BlockCypher-API/static/css/2.eb7ae919.chunk.css.map",
+  "static/css/main.1f87045c.chunk.css.map": "/BlockCypher-API/static/css/main.1f87045c.chunk.css.map"
 }
